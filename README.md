@@ -1,6 +1,5 @@
-Berikut deskripsi menarik dan profesional untuk repositori **IoT-Based-Soil-Moisture-Monitoring-for-Smart-Agriculture** di GitHub:  
 
----
+--
 
 # 🌱 **IoT-Based Soil Moisture Monitoring for Smart Agriculture**  
 
